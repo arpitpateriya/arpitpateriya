@@ -34,7 +34,7 @@
 
 ![Arpit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arpitpateriya&show_icons=false&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitpateriya&layout=compact&theme=radical&hide=c,c++)
-![GitHub Streak](https://streak-stats.demolab.com?user=arpitpateriya&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+
 
 
 
@@ -42,5 +42,5 @@
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/arpit-pateriya-9230972bb)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arpit-pateriya-9230972bb/)
 [![Gmail](https://img.shields.io/badge/Gmail-Red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpitpateriya20@gmail.com)
