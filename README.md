@@ -32,7 +32,7 @@
 
 
 
-![Arpit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arpitpateriya&show_icons=true&theme=radical)
+![Arpit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arpitpateriya&show_icons=false&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitpateriya&layout=compact&theme=radical&hide=c,c++)
 ![GitHub Streak](https://streak-stats.demolab.com?user=arpitpateriya&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
