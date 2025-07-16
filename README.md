@@ -32,7 +32,7 @@
 
 
 
-![Arpit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arpitpateriya&show_icons=true&theme=tokyonnight)
+![Arpit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arpitpateriya&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitpateriya&layout=compact&theme=dark)
 
 
