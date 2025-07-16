@@ -32,8 +32,8 @@
 
 
 
-![Arpit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arpitpateriya&show_icons=false&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitpateriya&layout=compact&theme=radical&hide=c,c++)
+![Arpit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arpitpateriya&show_icons=true&theme=tokyonnight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitpateriya&layout=compact&theme=dark)
 
 
 
